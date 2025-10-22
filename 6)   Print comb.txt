@@ -1,4 +1,4 @@
-🧩 Exercise: print_comb
+ 🧩 Exercise: print_comb
 
 📜 Description:
 Write a function that displays all different combinations of three digits in ascending order, separated by commas and spaces.  
