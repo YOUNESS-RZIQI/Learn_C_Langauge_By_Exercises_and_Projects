@@ -1,4 +1,4 @@
-🧩 Exercise: strcat  
+ 🧩 Exercise: strcat  
 
 📜 Description:  
 Write a function that concatenates (joins) the string `src` to the end of the string `dest`.
