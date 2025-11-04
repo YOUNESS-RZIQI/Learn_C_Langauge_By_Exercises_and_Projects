@@ -3,7 +3,7 @@ Exercise: ft_boolean.h
 Description:  
 Create a header file that defines a custom boolean type and related macros for clarity and convenience.  
 This header provides macros for `TRUE`, `FALSE`, and checks if a number is even, along with message constants.
-
+ 
 Explanation:  
 - `#ifndef FT_BOOLEAN_H` / `#define FT_BOOLEAN_H` / `#endif`  
   → These form the *include guard* to prevent multiple inclusions of the same header file.  
