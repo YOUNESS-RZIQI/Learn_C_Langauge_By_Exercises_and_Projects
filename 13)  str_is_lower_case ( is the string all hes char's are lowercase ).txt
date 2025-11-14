@@ -17,7 +17,7 @@ If the string is empty, it should return 1.
  Prototype:  
 int str_is_lowercase(char *str);
 
-💡 Solution:
+ Solution:
 #include <unistd.h>
 
 int str_is_lowercase(char *str)
