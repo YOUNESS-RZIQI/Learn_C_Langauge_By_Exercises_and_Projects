@@ -1,11 +1,11 @@
-🧩 Exercise: str_is_numeric
+ Exercise: str_is_numeric
 
-📜 Description:  
+ Description:  
 Write a function that checks if a string contains only numeric characters ('0' to '9').  
 The function should return 1 if the string contains only digits, and 0 otherwise.  
 If the string is empty, it should return 1.
 
-🧠 Instructions:  
+ Instructions:  
 - Function name: str_is_numeric  
 - Parameters:  
   - str: the string to check  
