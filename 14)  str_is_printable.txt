@@ -1,4 +1,4 @@
-🧩 Exercise: str_is_printable
+ Exercise: str_is_printable
 
 📜 Description:  
 Write a function that checks if a string contains only printable characters.  
