@@ -1,6 +1,6 @@
  Exercise: str_is_lowercase
 
-📜 Description:  
+ Description:  
 Write a function that checks if a string contains only lowercase alphabetic characters ('a' to 'z').  
 The function should return 1 if the string contains only lowercase letters, and 0 otherwise.  
 If the string is empty, it should return 1.
