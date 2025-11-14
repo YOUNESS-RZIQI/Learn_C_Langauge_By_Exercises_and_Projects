@@ -14,7 +14,7 @@ If the string is empty, it should return 1.
   - 0 otherwise  
 - You must not use any external library functions.
 
-🧩 Prototype:  
+ Prototype:  
 int str_is_lowercase(char *str);
 
 💡 Solution:
