@@ -5,7 +5,7 @@ Write a function that checks if a string contains only lowercase alphabetic char
 The function should return 1 if the string contains only lowercase letters, and 0 otherwise.  
 If the string is empty, it should return 1.
 
-🧠 Instructions:  
+ Instructions:  
 - Function name: str_is_lowercase  
 - Parameters:  
   - str: the string to check  
