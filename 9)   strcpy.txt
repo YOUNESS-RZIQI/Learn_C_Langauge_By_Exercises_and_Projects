@@ -1,4 +1,4 @@
-1234567🧩 Exercise: strcpy
+12345678🧩 Exercise: strcpy
 
 📜 Description:
 Write a function that copies the string pointed to by src (including the terminating '\0') into the buffer pointed to by dest.  
