@@ -1,4 +1,5 @@
-123456789
+
+
 
 int	ft_isprint(int c)
 {
