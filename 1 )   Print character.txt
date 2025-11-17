@@ -1,4 +1,4 @@
-/*
+1/*
 
 🧩 Exercise: _putchar
 
