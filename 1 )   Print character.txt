@@ -1,6 +1,6 @@
 /*
 
-12 Exercise: _putchar
+123 Exercise: _putchar
 
 📜 Description:
 Write a function that displays a single character on the standard output.
