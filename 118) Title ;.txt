@@ -75,6 +75,5 @@
    // print the list after the push_front
    Print_list(list);
 
-
     return 0;
  }
