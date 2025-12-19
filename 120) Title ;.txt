@@ -11,3 +11,6 @@ void free_list(struct s_node *head)
    free(head);// node1
 
 }
+
+
+This function do free the Double liked list of the previos file " 119 "
