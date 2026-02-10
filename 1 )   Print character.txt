@@ -13,7 +13,7 @@ Your goal is simple: take a character as input and print it on the screen exactl
 - The function should not return anything.
 - Only the function write is allowed.
 - Include <unistd.h> to access the write function prototype.
- 
+
 🧩 Prototype:
 void    _putchar(char c);
 
