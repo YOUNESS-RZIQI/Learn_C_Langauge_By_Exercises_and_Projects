@@ -63,6 +63,7 @@ int count_capital(char *s)
     return counter;
 }
 
+
 char *camel_to_snake(char *s)
 {
 
@@ -70,10 +71,11 @@ char *camel_to_snake(char *s)
 
     new_s = malloc(len(s) + count_capital(s) + 1);
 
+
     int i = 0;
     int j = 0;
 
-    while (i <= len(s))
+    while (i < len(s))
     {
         if (is_lower(s[i]))
             new_s[j] = s[i];
@@ -99,7 +101,9 @@ int main(int c, char **v)
 
     if (c == 2 && v[1][0] && is_lower(v[1][0]))
     {
-        write(1, camel_to_snake(v[1]), len(camel_to_snake(v[1])));   
+        char *s = camel_to_snake(v[1]);
+        write(1, s, len(s));
+        free(s);
     }
     write(1, "\n", 1);
     return 0;
